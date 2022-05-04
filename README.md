@@ -1,5 +1,5 @@
 - 👋 Hi
-- 🌱 I’m currently learning Javascript, React, Kotlin, Android Studio and baby level for PHP framwork
+- 🌱 I’m currently learning Javascript, React, Kotlin, Android Studio.
 
 <!---
 ratchaneegorn/ratchaneegorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
